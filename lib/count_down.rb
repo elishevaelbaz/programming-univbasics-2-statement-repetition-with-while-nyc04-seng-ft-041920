@@ -4,6 +4,6 @@ x = 10
 
 while x > 0 do
   puts x
-  X +=1
+  X -=1
 end
 puts "Happy New Year!"
